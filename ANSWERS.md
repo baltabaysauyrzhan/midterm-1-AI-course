@@ -53,8 +53,8 @@ Candidate (A, 5) achieves the highest recall of 71.7% (95% CI [59.2%, 81.5%]) an
 
 | pipeline | overall accuracy | weakest cell (language, condition) | accuracy there | lower | upper | annual cost |
 |---|---|---|---|---|---|---|
-| H |88,33% |KK, degraded |83,3% |66,4% |92,7% |$26013,29 |
-| L |79,44% |KK, clean & degraded |73,3% |55,5% |85,8% |$5400,00 |
+| H |89,4% |KK, degraded |83,3% |66,4% |92,7% |$26013,29 |
+| L |80% |KK, clean & degraded |73,3% |55,5% |85,8% |$5400,00 |
 
 Personal-data pages per year sent abroad under H: 766,500
 
